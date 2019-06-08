@@ -22,6 +22,6 @@
 
 ![ss](https://raw.githubusercontent.com/chuiizeet/cifar10/master/screenshots/truck.png)
  
- ## Feelsba
+ ## Feelsbad
  
 ![ss](https://raw.githubusercontent.com/chuiizeet/cifar10/master/screenshots/error.png)
